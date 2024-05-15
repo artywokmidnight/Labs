@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//another comment
 class Array
 {
 public:
