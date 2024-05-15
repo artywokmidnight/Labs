@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-
+//some commentaries
 using namespace std;
 
 class Array
